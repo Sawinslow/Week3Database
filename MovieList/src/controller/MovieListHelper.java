@@ -1,7 +1,7 @@
 package controller;
 
 import java.util.List;
-
+// Samuel Winslow
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
