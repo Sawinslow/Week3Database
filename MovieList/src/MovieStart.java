@@ -1,6 +1,6 @@
 import java.util.List;
 import java.util.Scanner;
-
+// Samuel Winslow
 import controller.MovieListHelper;
 import model.ListMovies;
 
